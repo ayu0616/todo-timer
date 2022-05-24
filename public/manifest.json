@@ -3,7 +3,7 @@
     "background_color": "#b8e986",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/todo-timer/",
+    "start_url": "/",
     "name": "TODO-TIMER",
     "short_name": "TODO-TIMER",
     "icons": [
